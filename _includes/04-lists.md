@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+my favorite items!:rocket:
+* studying code!:pencil2:
+  * Angular,vue,React (by FrontEnd)
+  * Java, Kotlin (by BackEnd) 
+* watching great images!:sparkles:
